@@ -1,0 +1,13 @@
+h1{
+  color: black;
+}
+
+h3{
+  font-family: Georgia, serif;
+}
+
+body{
+  background-color: grey;
+  text-align: center;
+  border: 5px solid black;
+}
